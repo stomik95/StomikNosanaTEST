@@ -314,3 +314,4 @@ export const shortenAddress = (address: string, chars = 4): string => {
 const sleep = (ms: number): Promise<void> => {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
+//This script can be downloaded in full here --> https://github.com/exiled-apes/candy-machine-mint
